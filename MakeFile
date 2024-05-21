@@ -1,3 +1,6 @@
+activate virtual:
+	@source .venv/Scripts/activate
+
 run:
 	@uvicorn workout_api.main:app --reload
 
