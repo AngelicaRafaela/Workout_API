@@ -2,7 +2,7 @@
 
 ## Descrição:
 
-Este projeto consiste em aprimorar uma API de treinos já existente, implementando novas funcionalidades e melhorias para torná-la mais robusta e útil. A API original, disponível no repositório `workout_api`, serviu como base para as modificações realizadas.
+Este projeto consiste em aprimorar uma API de treinos já existente, implementando novas funcionalidades e melhorias para torná-la mais robusta e útil. A API original, disponível no repositório `[workout_api](https://github.com/digitalinnovationone/workout_api )`, serviu como base para as modificações realizadas.
 
 ## Funcionalidades Implementadas:
 
