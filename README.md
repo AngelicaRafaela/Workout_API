@@ -33,4 +33,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request 
 
 ## Agradecimentos:
 
-Agradeço à Digital Innovation One pela oportunidade de aprendizado e à comunidade de desenvolvedores por compartilhar conhecimento e experiências.
+Agradeço à DIO pela oportunidade de aprendizado e à comunidade de desenvolvedores por compartilhar conhecimento e experiências.
