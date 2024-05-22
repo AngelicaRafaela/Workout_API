@@ -41,3 +41,18 @@ class AtletaUpdate(BaseSchema):
     idade: Annotated[
         Optional[int], Field(None, description="Idade do atleta", example=25)
     ]
+
+
+# class CentroTreinamentoOut(BaseSchema):
+#     nome: str
+#     endereco: str  # Ajuste conforme os campos reais
+
+#     class Config:
+#         orm_mode = True
+
+
+class AtletaOutCustom(BaseSchema):
+    nome: str
+    centro_treinamento: str
+    categoria: str
+
